@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Jisoo",
+      "image": "https://i.imgur.com/OG9X871.png",
+      "email": "jisoo@gmail.com",
+      "phone": "0912123109",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Jennie",
+      "image": "https://i.imgur.com/WVcZqaT.png",
+      "email": "jennie@gmail.com",
+      "phone": "0912123123"
+    },
+    {
+      "id": 3,
+      "name": "Rosé",
+      "image": "https://i.imgur.com/8yxOjMZ.png",
+      "email": "rose@gmail.com",
+      "phone": "0912123121"
+    },
+    {
+      "id": 4,
+      "name": "Lisa",
+      "image": "https://i.imgur.com/CKaVxMc.png",
+      "email": "lisa@gmail.com",
+      "phone": "0912123121"
+    }
+  ]
+}
